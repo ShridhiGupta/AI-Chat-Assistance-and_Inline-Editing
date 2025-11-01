@@ -1,0 +1,8 @@
+name: Local Config
+version: 1.0.0
+schema: v1
+models:
+  - name: Llama 3
+    provider: groq
+    model: llama-3.3-70b-versatile
+    apiKey: your-api-key
