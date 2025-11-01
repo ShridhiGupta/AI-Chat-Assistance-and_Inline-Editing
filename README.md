@@ -51,7 +51,9 @@ You can then create a new file and paste the generated code directly.
 You can also add the **instant** model in your config file.
 
 Model string:
+```
 llama-3.1-8b-instant
+```
 
 Your updated configuration will look like:
 **config2.yaml**
