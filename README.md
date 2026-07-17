@@ -1,11 +1,11 @@
-# 💬 AI Chat Assistance and Inline Editing
+# AI Chat Assistance and Inline Editing
 
 You don’t need to write code manually anymore — **Really!** 😄  
 
-## 🚀 How is it possible?
+## How is it possible?
 By adding an extension named **Continue** — an open-source AI code agent for VS Code.
 
-🔗 **Find it here:** [https://www.continue.dev/](https://www.continue.dev/)
+**Find it here:** [https://www.continue.dev/](https://www.continue.dev/)
 
 ---
 
