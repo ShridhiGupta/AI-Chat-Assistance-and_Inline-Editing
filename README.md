@@ -9,7 +9,7 @@ By adding an extension named **Continue** — an open-source AI code agent for V
 
 ---
 
-## 🧩 Installation Steps
+## Installation Steps
 
 1. **Download the Continue Extension**
    - Open VS Code and search for **"Continue - open-source AI code agent"** in the Extensions tab.
@@ -66,4 +66,4 @@ Just select the lines of code you want to modify and use Continue’s editing pr
 
 ---
 
-## 🙏 Thank You!
+## Thank You!
