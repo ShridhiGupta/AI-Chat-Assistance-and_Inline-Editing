@@ -47,7 +47,7 @@ You can then create a new file and paste the generated code directly.
 
 ---
 
-## ⚙️ Adding Another Model
+## Adding Another Model
 You can also add the **instant** model in your config file.
 
 Model string:
@@ -60,7 +60,7 @@ Your updated configuration will look like:
 
 ---
 
-## ✏️ Inline Editing Feature
+## Inline Editing Feature
 Once everything is set up, you can even **edit your code inline**!  
 Just select the lines of code you want to modify and use Continue’s editing prompt.
 
